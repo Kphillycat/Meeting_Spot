@@ -1,5 +1,0 @@
-Welcome to Meeting Spot
-
-Meeting Spot is a web application that allows you and your friends to input their locations and find a common meeting place based on transit time. You can also input other parameters like type of place, time of meeting and price point.
-
-Access the application here: http://socialradius.herokuapp.com/
