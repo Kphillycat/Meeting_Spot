@@ -35,7 +35,6 @@ gem 'jquery-rails'
 # gem 'capistrano'
 
 # To use debugger
-gem "activerecord-sqlite3-adapter"
 
 group :development do
   gem 'debugger'
