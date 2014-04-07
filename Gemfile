@@ -7,6 +7,7 @@ gem 'rails', '3.2.16'
 
 gem 'geocoder'
 gem 'figaro'
+gem 'blockuijs-rails',  :git => 'git://github.com/rusanu/blockuijs-rails.git'
 
 group :production, :staging do
   gem "pg"
